@@ -1,0 +1,3 @@
+[10-Nov-2020 06:55:39 UTC] PHP Fatal error:  Out of memory (allocated 800112640) (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[04-Dec-2020 06:47:51 UTC] PHP Fatal error:  Out of memory (allocated 770715648) (tried to allocate 36710944 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/RemoteFilesystem.php on line 459
+[04-Dec-2020 07:04:25 UTC] PHP Fatal error:  Out of memory (allocated 800423936) (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Repository/ComposerRepository.php on line 340
